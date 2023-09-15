@@ -48,7 +48,10 @@ Incompleto / Incorrecto (0 puntos): El código no cumple con el criterio, o la i
 Parcialmente Completo (puntos parciales): El código cumple parcialmente con el criterio, pero hay algunos errores o aspectos que podrían mejorarse.
 Completo / Correcto (puntos completos): El código cumple completamente con el criterio y está implementado correctamente.
 Nota: Dependiendo de las políticas de evaluación de su institución o instructor, puede ajustar la rúbrica para dar mayor o menor peso a los diferentes criterios.*/
-import java.io.*;   //importamos las librerias necesarias
+//importamos las librerias necesarias
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.PrintWriter;
 
 
 
