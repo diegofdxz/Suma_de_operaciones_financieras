@@ -1,5 +1,5 @@
 # Suma_de_operaciones_financieras
-
+## Mi repositorio es: https://github.com/diegofdxz/Suma_de_operaciones_financieras
 Eres un desarrollador de software en una gran corporación con múltiples departamentos como informática, gerencia, contabilidad, comercio y recursos humanos. Cada departamento realiza varias transacciones financieras diarias, y todas estas transacciones se registran y almacenan en archivos de texto individuales correspondientes a cada departamento.
 
 Dado el volumen de transacciones, la empresa necesita una forma eficiente de procesar y sumar todas las transacciones de cada departamento. Sin embargo, dado que los archivos se actualizan constantemente a lo largo del día, no es posible realizar este procesamiento de forma secuencial, ya que llevaría demasiado tiempo.
